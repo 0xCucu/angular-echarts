@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wangshijun/angular-echarts.git"
+    "url": "git@github.com:zhenyangjiang/angular-echarts.git"
   },
   "keywords": [
     "angular",
@@ -18,9 +18,9 @@
   "author": "wangshijun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wangshijun/angular-echarts/issues"
+    "url": "https://github.com/zhenyangjiang/angular-echarts/issues"
   },
-  "homepage": "https://github.com/wangshijun/angular-echarts",
+  "homepage": "https://github.com/zhenyangjiang/angular-echarts",
   "devDependencies": {
     "browser-sync": "^2.9.11",
     "event-stream": "~3.1.5",
