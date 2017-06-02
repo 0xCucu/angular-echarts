@@ -2,8 +2,7 @@
   "name": "cucumber.angular-echarts",
   "version": "1.0.0",
   "homepage": "https://github.com/zhenyangjiang/angular-echarts",
-  "authors": [
-  ],
+  "authors": [],
   "description": "angular baidu echarts",
   "main": "./dist/angular-echarts.min.js",
   "moduleType": [
@@ -24,7 +23,8 @@
   ],
   "dependencies": {
     "angular": "~1.6",
-    "echarts": "~3.4"
+    "echarts": "~3.6",
+    "cucumber.angular-echarts": "^1.0.1"
   },
   "devDependencies": {
     "bootstrap": "~3"

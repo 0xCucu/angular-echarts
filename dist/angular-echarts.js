@@ -264,6 +264,8 @@ angular.module('angular-echarts.util', []).factory('util', function () {
                     name: serie.name,
                     data: datapoints
                 };
+            conf = angular.extend(conf, config); //属于UI的配置
+            conf = angular.extend(conf, serie); //属于数据的配置
             // area chart is actually line chart with special itemStyle
             if (type === 'area') {
                 conf.type = 'line';
